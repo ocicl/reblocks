@@ -1,0 +1,9 @@
+* reblocks
+
+A fork of Weblocks Common Lisp web framework
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks   |
+| commit  | 833138849c63d35f7361bb15584d2cfd9ce673c4 |
+| systems | reblocks                                 |
+|---------+------------------------------------------|
