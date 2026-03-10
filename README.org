@@ -4,6 +4,6 @@ A fork of Weblocks Common Lisp web framework
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/40ants/reblocks |
-| commit  | 4e296f25                               |
+| commit  | c0ca4228                               |
 | systems | reblocks                               |
 |---------+----------------------------------------|
